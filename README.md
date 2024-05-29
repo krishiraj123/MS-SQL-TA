@@ -22,15 +22,15 @@ To use the queries in this repository:
 
 ## Queries and Solutions
 ### Basic Queries
-- [SELECT Queries](sql/basic-queries/select_queries.sql)
-- [JOIN Queries](sql/basic-queries/join_queries.sql)
-- [Aggregate Functions](sql/basic-queries/aggregate_functions.sql)
+- SELECT Queries
+- JOIN Queries
+- Aggregate Functions
 
 ### Intermediate Queries
-- [Subqueries](sql/intermediate-queries/subqueries.sql)
+- Subqueries
 
 ### Advanced Queries
-- [Complex Joins](sql/advanced-queries/complex_joins.sql)
+- Complex Joins
 
 ## Contact
 For any questions or further information, please contact me at:
